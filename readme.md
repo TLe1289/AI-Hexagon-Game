@@ -6,7 +6,7 @@
 - You can also copy the code from the .py file onto the interface to operate
 - Click on Green button to run the python file
 
-## Option 1: Visual studio Code or IDE
+## Option 2: Visual studio Code or IDE
 ### 1. Prerequisites
 -Have Visual Studio Code preinstalled to your device
 -Install the python from (https://www.python.org/downloads/)
